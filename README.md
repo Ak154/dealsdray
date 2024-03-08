@@ -1,2 +1,2 @@
 # dealsdray
-This is assignment project
+This is an assignment project
