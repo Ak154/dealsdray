@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+/* ------- form field ------------------- */
+
+.form-container-login {
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+} 
+
+.anchor-sign {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    margin: 20px;
+    margin-top: 10px;
+    font-size: 18px;
+    gap: 40px;
+}
